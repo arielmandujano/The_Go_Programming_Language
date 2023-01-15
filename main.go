@@ -1,8 +1,6 @@
 package main
 
-import (
-	"The_Go_Programming_Lenguage/C1/exercises"
-)
+import "The_Go_Programming_Lenguage/C1/exercises"
 
 // "The_Go_Programming_Lenguage/C1/Examples"
 
@@ -22,5 +20,14 @@ func main() {
 
 	//exercises.Echo1_1()
 	//exercises.Echo1_2()
-	exercises.TimingEcho()
+	//exercises.TimingEcho()
+
+	//examples.Dup1()
+	//examples.Dup2()
+	//examples.Dup3()
+
+	//Exercises
+
+	exercises.Exec1_4()
+
 }
