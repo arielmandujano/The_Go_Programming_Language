@@ -53,6 +53,10 @@ func main() {
 	//exercises.Fetch4()
 
 	// Fetch all
-	examples.FetchAll()
+	//examples.FetchAll()
+
+	// Server
+	//examples.Server1()
+	examples.Server2()
 
 }
