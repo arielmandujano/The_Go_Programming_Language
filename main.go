@@ -1,9 +1,6 @@
 package main
 
-import (
-	"The_Go_Programming_Lenguage/C1/exercises"
-	"os"
-)
+import "The_Go_Programming_Lenguage/C1/exercises"
 
 // "The_Go_Programming_Lenguage/C1/Examples"
 
@@ -11,7 +8,7 @@ func main() {
 
 	// C1
 
-	//Hello World
+	// Hello World
 	//examples.HelloWorld()
 
 	// Echo
@@ -25,6 +22,8 @@ func main() {
 	//exercises.Echo1_2()
 	//exercises.TimingEcho()
 
+	// Dump
+
 	//examples.Dup1()
 	//examples.Dup2()
 	//examples.Dup3()
@@ -33,11 +32,22 @@ func main() {
 
 	//exercises.Exec1_4()
 
+	// Lissajous
+
 	//examples.Lissajous(os.Stdout)
 
 	//Excercises
 
 	//exercises.Exer1_5(os.Stdout)
-	exercises.Exer1_6(os.Stdout)
+	//exercises.Exer1_6(os.Stdout)
+
+	// Fetch
+
+	//examples.Fetch()
+
+	//Exercises
+	//exercises.Fetch2()
+	//exercises.Fetch3()
+	exercises.Fetch4()
 
 }
