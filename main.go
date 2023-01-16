@@ -1,6 +1,8 @@
 package main
 
-import "The_Go_Programming_Lenguage/C1/exercises"
+import (
+	"The_Go_Programming_Lenguage/C1/examples"
+)
 
 // "The_Go_Programming_Lenguage/C1/Examples"
 
@@ -48,6 +50,9 @@ func main() {
 	//Exercises
 	//exercises.Fetch2()
 	//exercises.Fetch3()
-	exercises.Fetch4()
+	//exercises.Fetch4()
+
+	// Fetch all
+	examples.FetchAll()
 
 }
