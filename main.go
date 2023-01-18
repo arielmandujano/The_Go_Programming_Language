@@ -57,6 +57,7 @@ func main() {
 
 	// Server
 	//examples.Server1()
-	examples.Server2()
+	//examples.Server2()
+	examples.Server3()
 
 }
