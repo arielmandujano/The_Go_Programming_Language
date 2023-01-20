@@ -63,6 +63,9 @@ func main() {
 	// Boiling
 
 	//examplesC2.Boiling()
-	examplesC2.FToC()
+	//examplesC2.FToC()
 
+	// Echo
+
+	examplesC2.Echo4()
 }
