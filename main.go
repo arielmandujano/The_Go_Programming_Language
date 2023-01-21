@@ -2,6 +2,7 @@ package main
 
 import (
 	examplesC2 "The_Go_Programming_Lenguage/C2/examples"
+	"fmt"
 )
 
 // "The_Go_Programming_Lenguage/C1/examplesC1"
@@ -67,5 +68,10 @@ func main() {
 
 	// Echo
 
-	examplesC2.Echo4()
+	//examplesC2.Echo4()
+
+	// TempConv
+	fmt.Println(examplesC2.CToF(10))
+	fmt.Println(examplesC2.FToC2(10))
+
 }
