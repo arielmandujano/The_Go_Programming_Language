@@ -4,7 +4,7 @@
 
 __The go programming language__ is a book for introducing in deep some of the main concepts of go programming language. 
 
-This repository is a container for all examples and exercises solutions I've completed along I learn using the book. 
+This repository is a container for most of the examples and exercises solutions I've completed along I learn using the book. 
 
 ### The repository
 
